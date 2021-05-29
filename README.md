@@ -1,6 +1,7 @@
 # Letschat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application](https://github.com/AnoopKiranAM/letschat/blob/main/images/Chat%20Page.JPG)
+
 
 ## Introduction
 This is a chat appliation developed using React js and Chat Engine
