@@ -1,7 +1,7 @@
 # Letschat Application
 
 ## Introduction
-This is a chat appliation developed using React js and Chat Engine
+This is a chat appliation developed using React js, Chat Engine, firebase authentication 
 
 Hosted at : https://letschatbyanoop.netlify.app/chats
 
